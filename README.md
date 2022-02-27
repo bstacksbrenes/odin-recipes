@@ -1,2 +1,2 @@
 # odin-recipes
-making a cute recipe site
+Recipes from the show Chowder
